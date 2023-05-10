@@ -1,6 +1,6 @@
-prepare
-Start coding
-Clean the bag
-Fix the door
+Workout
+Go to the gym
+Code
+Python Development
 Make dinner
-Python app
+Fix Herbal TeaDo Homework
