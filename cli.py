@@ -6,7 +6,7 @@ now = time.strftime("%b %d, %Y %H:%M:%S")
 print("It is", now)
 
 while True:
-    user_action = input("Type add, show, edit, complete or exit: ")
+    user_action = input("Type add, show, edit, delete or exit: ")
     user_action = user_action.strip()
 
     if user_action.startswith("add"):
@@ -41,9 +41,9 @@ while True:
             print("Your command is not valid.")
             continue
 
-    elif user_action.startswith('complete'):
+    elif user_action.startswith('delete'):
         try:
-            number = int(user_action[9:])
+            number = int(user_action[7:])
 
             todos = functions.get_todos()
 

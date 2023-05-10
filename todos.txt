@@ -2,5 +2,4 @@ Workout
 Go to the gym
 Code
 Python Development
-Make dinner
-Fix Herbal TeaDo Homework
+Make Herbal Tea
