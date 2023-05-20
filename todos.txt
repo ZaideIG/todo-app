@@ -3,4 +3,5 @@ Code
 Meal Prep
 Python Development
 Make Herbal Tea
+Build Trading Bot
 
